@@ -60,9 +60,9 @@ const Hero = () => {
             Hi! I&apos;m Aruniga, a Full-Stack Developer and Computer Science Undergraduate.
           </p>
 
-          <a href="#about">
+          <a href="/resume.pdf" download>
             <MagicButton
-              title="Show my work"
+              title="Download Resume"
               icon={<FaLocationArrow />}
               position="right"
             />
